@@ -1,0 +1,13 @@
+General
+	find some sort of lowest common denominator 'tick'
+
+Options considered
+
+	bitmask per light
+	=> problem some lamps are off very long - causing length 0's in the bit sequence
+
+	toggle list
+	=> array not that ice; size of the largerst x lights
+
+	sequential list iwth sentinel in order of LEDs on board or with some board/led mapping
+

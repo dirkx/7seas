@@ -1,0 +1,15 @@
+Oc R 6s
+Oc(2) G 8s
+Oc(2+3) W 18s
+Fl 5s 52.5 
+Iso G 10s 19.7 
+Oc 10s 29.5
+Q W 
+Iso 10s	
+Oc 12s
+F R
+Oc R 6s
+Oc(2) G 8s
+Oc(2+3) W 18s
+Iso R 4s	
+Fl(2+1) W 15s

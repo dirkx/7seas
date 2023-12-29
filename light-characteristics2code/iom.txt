@@ -1,0 +1,32 @@
+Fl G 3s
+Oc G 7s
+Q G 
+ISO G 4s
+Iso G 2s
+Oc G 5s
+Oc G 3s
+F R
+F R
+F R
+FL R 5s
+F R
+Oc 4s
+Oc R 3s
+FL R 3s
+Fl R 5s
+ISO R 5s
+F R
+Oc 3s
+Fl R 3s
+F R
+F R
+Oc R 7s
+FL W 5s
+Fl(4) W 20s
+Q(2) W 5s
+Fl(2) W 30s
+Oc W 7s
+Fl(3) W 30s
+FL 10s
+Q(9) W 10s
+Q(9) W 15s
